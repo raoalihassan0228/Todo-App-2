@@ -45,7 +45,7 @@ const delItem = (id:any) => {
   return (
     <div>
       <div className="max-w-[480px] bg-gradient-to-r from-blue-500 to-indigo-500 mx-auto text-gray-200 p-4 text-2xl font-semibold font-serif mt-7 shadow-xl">
-        <div className="text-center">Todo App</div>
+        <div className="text-center">Task Traker Application</div>
       </div>
 
       {/* Input div */}
